@@ -6,13 +6,13 @@ sites:
   
   - name: WEB-AySA
     url: https://www.aysa.com.ar
-    - name: Intranet
+  - name: Intranet
     url: https://intranet.aysa.com.ar
-      name: Servicedesk
+  - name: Servicedesk
     url: https://servicedesk.aysa.com.ar
-      name: Turnera
+  - name: Turnera
     url: https://turnosonline.aysa.com.ar/
-      name: Campus
+  - name: Campus
     url: https://campus.aysa.com.ar
     
   
