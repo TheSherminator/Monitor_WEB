@@ -29,7 +29,7 @@ status-website:
   navbar:
     - title: Estado de sevicios
       href: /
-    - title: AySA
+    - title: AySA S.A.
       href: https://www.aysa.com.ar
 
 # Upptime also supports notifications, assigning issues, and more
