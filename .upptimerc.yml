@@ -13,7 +13,7 @@ sites:
   - name: Turnera
     url: https://turnosonline.aysa.com.ar/
   - name: Campus
-    url: https://campus.aysa.com.ar
+    url: https://campus.aysa.com.ar/campus/login/index.php
     
   
 status-website:
