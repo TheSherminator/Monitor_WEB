@@ -22,7 +22,7 @@ status-website:
   #cname: demo.upptime.js.org
   baseUrl: /Monitor_WEB
   logoUrl: https://www.aysa.com.ar/media-library/imagenes_inicio/logo.png
-  name: **AySA** Lo bueno del agua llega
+  name: AySA Lo bueno del agua llega
   introTitle: "**MONITOR-Soporte Aplicativos** Monitor WEB AySA"
   introMessage: AySA -Soporte Aplicativos-
   navbar:
