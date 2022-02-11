@@ -4,7 +4,7 @@ repo: Monitor_WEB # The name of this repository
 
 sites:
   
-  - name: WEB-AySA
+  - name: Sitio WEB Corportativo
     url: https://www.aysa.com.ar
   - name: Intranet
     url: https://intranet.aysa.com.ar
@@ -12,7 +12,7 @@ sites:
     url: https://servicedesk.aysa.com.ar
   - name: Turnera
     url: https://turnosonline.aysa.com.ar
-  - name: Correo
+  - name: Correo (OWA)
     url: https://mail.aysa.com.ar
     
   
@@ -22,7 +22,6 @@ status-website:
   #cname: demo.upptime.js.org
   baseUrl: /Monitor_WEB
   logoUrl: https://www.aysa.com.ar/media-library/imagenes_inicio/logo.png
-  href: https://www.aysa.com.ar
   name: Soporte Aplicativos
   introTitle: "**MONITOR-Servicios WEB**"
   introMessage: Dirección Tecnología de la Información - Gerencia de Servicios Informáticos
