@@ -31,8 +31,8 @@ status-website:
   navbar:
     - title: Estado de sevicios
       href: /
-    - title: Código
-      href: https://github.com/$OWNER/$REPO
+    - title: AySA
+      href: https://www.aysa.com.ar
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
