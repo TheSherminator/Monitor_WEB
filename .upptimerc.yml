@@ -23,10 +23,10 @@ status-website:
   baseUrl: /Monitor_WEB
   logoUrl: https://www.aysa.com.ar/media-library/imagenes_inicio/logo.png
   name: AySA Lo bueno del agua llega
-  introTitle: "**MONITOR-Soporte Aplicativos** Monitor WEB AySA"
-  introMessage: AySA -Soporte Aplicativos-
+  introTitle: "**MONITOR-Soporte Aplicativos**"
+  introMessage: Dirección Tecnología de la Información - Gerencia de Servicios Informáticos
   navbar:
-    - title: Estado sevicios
+    - title: Estado de sevicios
       href: /
     - title: Código
       href: https://github.com/$OWNER/$REPO
