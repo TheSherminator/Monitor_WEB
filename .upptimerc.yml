@@ -5,8 +5,8 @@ repo: Monitor_WEB # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
+  - name: AySA
+    url: https://www.aysa.com.ar
   - name: Hacker News
     url: https://news.ycombinator.com
   - name: Test Broken Site
