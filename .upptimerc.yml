@@ -13,7 +13,9 @@ sites:
   - name: Turnera
     url: https://turnosonline.aysa.com.ar/
   - name: Campus
-    url: https://campus.aysa.com.ar/campus/login/index.php
+    url: https://campus.aysa.com.ar
+  - name: Correo
+    url: https://mail.aysa.com.ar
     
   
 status-website:
@@ -22,6 +24,7 @@ status-website:
   #cname: demo.upptime.js.org
   baseUrl: /Monitor_WEB
   logoUrl: https://www.aysa.com.ar/media-library/imagenes_inicio/logo.png
+  href: https://www.aysa.com.ar
   name: AySA Lo bueno del agua llega
   introTitle: "**MONITOR-Soporte Aplicativos**"
   introMessage: Dirección Tecnología de la Información - Gerencia de Servicios Informáticos
